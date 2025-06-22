@@ -10,6 +10,8 @@ I'm experienced in both solo and team-based projects, always focusing on solving
 -   💬 Ask me about: Python, Java, Django, Spring Boot, Next.js, PostgreSQL, NLP, and full-stack web development.
 -   📫 How to reach me: You can drop me an email at nibin.joseph.career@gmail.com or connect with me on LinkedIn.
 
+![Profile views](https://komarev.com/ghpvc/?username=nibin-joseph05&color=blue)
+
 ### My Projects
 
 Here are some of the projects I've built that showcase my skills:
