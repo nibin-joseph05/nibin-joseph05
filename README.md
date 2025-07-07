@@ -1,4 +1,4 @@
-<img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/github-profile-image.png?raw=true" alt="Banner" style="max-width: 100%; height: 200px; object-fit: cover;"/>
+<img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/github-profile-image.png?raw=true" alt="Banner" style="max-width: 100%; height: 400px; object-fit: cover;"/>
 
 # Hi there, I'm Nibin Joseph! 👋
  
