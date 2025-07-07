@@ -1,3 +1,6 @@
+<img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/github-profile-image.png?raw=true" alt="Banner" style="width:100%;"/>
+
+
 # Hi there, I'm Nibin Joseph! 👋
  
 ### About Me
