@@ -91,7 +91,8 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 - **BCA** (2021–2024) – St Antony's College Peruvanthanam  
 - **High School** (2009–2021) – St Joseph's HSS Peruvanthanam  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 🏆 Achievements
 
@@ -127,7 +128,8 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=gohugo&logoColor=white)](https://nibin-joseph05.github.io/portfolio-nibin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nibin.joseph.career@gmail.com)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 📊 GitHub Stats
 ![Nibin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibin-joseph05&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
