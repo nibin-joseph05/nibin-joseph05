@@ -8,7 +8,8 @@
 <!-- Rainbow Typing Effect (via shields.io style) -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=AI+Developer+%7C+Full+Stack+Engineer+%7C+Innovator;Exploring+AI+and+Web+Development;Crafting+Impactful+Digital+Experiences)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 📌 About Me
 I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, Django, FastAPI, Flutter, and React/Next.js**. I love building **scalable, secure, and intelligent apps** with **AI/NLP, Blockchain, and real-time features**.  
@@ -19,7 +20,7 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 
 ![Profile views](https://komarev.com/ghpvc/?username=nibin-joseph05&color=blue)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
 
 ## 🛠️ Skills
 
@@ -46,7 +47,8 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 🎯 Projects
 
@@ -80,7 +82,8 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 - Django + Python backend  
 - File sharing, academic support, event management  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 🎓 Education
 
@@ -95,7 +98,8 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 - Student Police Cadet (SPC) – Leadership & civic responsibility  
 - Coordinated Virtual Reality Demo at College Tech Fest  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 📄 Publications
 
@@ -103,7 +107,8 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 - GANs optimize water recycling, VAEs predict chemical toxicity  
 - Promotes resource efficiency and environmental compliance  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 🎖️ Certificates
 
@@ -113,7 +118,8 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 - Data Science 101 – Cognitive Class  
 - Data Science Methodology – Cognitive Class  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nibin-joseph05)
