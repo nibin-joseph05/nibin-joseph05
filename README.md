@@ -1,5 +1,8 @@
-<!-- Banner Image -->
-<img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/github-profile-image.png?raw=true" alt="Banner" style="width: 100%; height: 400px; object-fit: cover;"/>
+<!-- Banner GIF -->
+<img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/readme-gif.gif?raw=true" 
+     alt="Animated Banner" 
+     style="width: 100%; height: 400px; object-fit: cover;"/>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
 
