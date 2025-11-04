@@ -19,7 +19,7 @@ I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, D
 
 - 🌱 Currently learning: Advanced Machine Learning & Flutter  
 - 💬 Ask me about: Java, Python, Spring Boot, FastAPI, Flutter, AI/NLP, Blockchain, PostgreSQL  
-- 📫 Reach me: [Email](mailto:nibin.joseph.career@gmail.com) | [LinkedIn](https://linkedin.com/in/nibin-joseph05)  
+- 📫 Reach me: [Email](mailto:nibin.joseph.career@gmail.com) | [LinkedIn](https://linkedin.com/in/nibin-joseph05) | [Portfolio](https://nibin-joseph05.github.io/portfolio-nibin)
 
 ![Profile views](https://komarev.com/ghpvc/?username=nibin-joseph05&color=blue)
 
