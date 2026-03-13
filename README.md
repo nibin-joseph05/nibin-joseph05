@@ -1,7 +1,7 @@
 <!-- Banner GIF -->
 <img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/banner.jpg?raw=true" 
      alt="Animated Banner" 
-     style="width: 100%; height: 200px; object-fit: cover;"/>
+     style="width: 100%; height: 150px; object-fit: cover;"/>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
