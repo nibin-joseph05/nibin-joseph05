@@ -30,17 +30,30 @@ I enjoy building **scalable systems, real-time platforms, and intelligent applic
 
 ### Reach Me
 
-<a href="mailto:nibin.joseph.career@gmail.com">
-<img src="https://img.icons8.com/ios-filled/20/ffffff/new-post.png"/> Email
-</a>
+### Reach Me
 
-<a href="https://nibin-joseph05.github.io/portfolio-nibin">
-<img src="https://img.icons8.com/ios-filled/20/ffffff/domain.png"/> Portfolio
+<p align="left">
+
+<a href="mailto:nibin.joseph.career@gmail.com">
+<img src="https://img.icons8.com/ios-filled/22/ffffff/new-post.png"/> Email
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/nibin-joseph05">
-<img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png"/> LinkedIn
+<img src="https://img.icons8.com/ios-filled/22/ffffff/linkedin.png"/> LinkedIn
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://nibin-joseph05.github.io/portfolio-nibin">
+<img src="https://img.icons8.com/ios-filled/22/ffffff/domain.png"/> Portfolio
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://play.google.com/store/apps/details?id=com.paragon.anad.crm&pcampaignid=web_share">
+<img src="https://img.icons8.com/ios-filled/22/ffffff/google-play.png"/> ANAD CRM (Play Store)
+</a>
+
+</p>
 
 <br>
 
@@ -108,6 +121,9 @@ Kochi, Kerala
 Nov 2025 – Present
 
 Working on **production mobile applications and backend integrations** for enterprise systems.
+
+Live Application  
+https://play.google.com/store/apps/details?id=com.paragon.anad.crm&pcampaignid=web_share
 
 ### Key Contributions
 
