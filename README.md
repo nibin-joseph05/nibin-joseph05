@@ -12,7 +12,7 @@ Building full-stack mobile and backend systems.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 📌 About Me
+# About Me
 
 I am a **Software Engineer and Full-Stack Developer** specializing in **Flutter, Kotlin, Java Spring Boot, and modern web technologies**.
 
@@ -20,30 +20,42 @@ Currently working at **AIBI Campus**, contributing to production enterprise appl
 
 I enjoy building **scalable systems, real-time platforms, and intelligent applications** integrating **AI services, distributed systems, and blockchain-backed data integrity**.
 
-Key areas I work with:
+### Key areas I work with
 
 • Mobile development using **Flutter and Kotlin**  
 • Backend systems with **Java Spring Boot and REST APIs**  
 • **Real-time systems using WebSockets**  
-• **AI/NLP integrations**  
+• **AI / NLP integrations**  
 • **Blockchain-based immutable data systems**
 
-📫 Reach me:
+### Reach Me
 
-Email: nibin.joseph.career@gmail.com  
-Portfolio: https://nibin-joseph05.github.io/portfolio-nibin  
-LinkedIn: https://linkedin.com/in/nibin-joseph05  
+<a href="mailto:nibin.joseph.career@gmail.com">
+<img src="https://img.icons8.com/ios-filled/20/ffffff/new-post.png"/> Email
+</a>
+
+<a href="https://nibin-joseph05.github.io/portfolio-nibin">
+<img src="https://img.icons8.com/ios-filled/20/ffffff/domain.png"/> Portfolio
+</a>
+
+<a href="https://linkedin.com/in/nibin-joseph05">
+<img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png"/> LinkedIn
+</a>
+
+<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=nibin-joseph05&color=blue)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 🛠 Technical Skills
+# Technical Skills
 
 ### Programming Languages
+
 Java • Python • Dart • JavaScript • TypeScript • PHP • C++
 
 ### Backend & Frameworks
+
 Spring Boot  
 Spring Security  
 Hibernate / JPA  
@@ -54,6 +66,7 @@ REST APIs
 Microservices
 
 ### Mobile & Frontend
+
 Flutter  
 Kotlin (Jetpack Compose)  
 React  
@@ -63,12 +76,14 @@ CSS
 Tailwind CSS
 
 ### Databases
+
 PostgreSQL  
 MySQL  
 MongoDB  
 LevelDB
 
 ### AI / NLP / Blockchain
+
 BERT  
 TF-IDF  
 MiniLM embeddings  
@@ -76,6 +91,7 @@ SHAP explainability
 Private Blockchain (Go + LevelDB)
 
 ### Tools & Platforms
+
 Git  
 Docker  
 Firebase Authentication  
@@ -85,7 +101,7 @@ Google Cloud Platform
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Software Engineer — AIBI Campus  
 Kochi, Kerala  
@@ -93,18 +109,20 @@ Nov 2025 – Present
 
 Working on **production mobile applications and backend integrations** for enterprise systems.
 
-Key contributions:
+### Key Contributions
 
 • Developing features for **ANAD CRM mobile application (Flutter)**  
 • REST API integrations and backend communication  
 • Performance improvements and bug fixing in production builds  
 • Git-based collaborative development workflows  
 
-### ANAD Dialer — Android Call Monitoring System
+---
+
+## ANAD Dialer — Android Call Monitoring System
 
 Built an Android application using **Kotlin and Jetpack Compose** for enterprise CRM integration.
 
-Features include:
+### Features
 
 • Background call monitoring service  
 • Automatic call log synchronization with CRM APIs  
@@ -112,26 +130,26 @@ Features include:
 • Analytics dashboard with charts  
 • Offline queue with automatic retry mechanism
 
-Technologies used:
+### Technologies Used
 
 Flutter • Kotlin • REST APIs • Firebase • MySQL • Git
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🚨 AURA — AI-Powered Safety, Wellness & Community Platform
+## AURA — AI-Powered Safety, Wellness & Community Platform
 
 A full-stack platform designed to integrate **personal safety, wellness engagement, and real-time communication**.
 
-The system includes:
+### System Components
 
 • Flutter mobile application  
 • Spring Boot backend services  
 • Next.js administrative dashboard  
 • Custom Go blockchain service for immutable SOS records
 
-Key capabilities:
+### Key Capabilities
 
 • Pulse-based **SOS emergency alerts**  
 • **Live GPS location streaming**  
@@ -141,20 +159,20 @@ Key capabilities:
 • **Activity and walking tracker**  
 • **Admin dashboard for monitoring SOS events**
 
-Tech Stack:
+### Tech Stack
 
 Flutter • Kotlin • Spring Boot • Next.js • Go • PostgreSQL • Firebase • Gemini AI
 
-Repository:  
+Repository  
 https://github.com/nibin-joseph05/Aura
 
 ---
 
-## 🧾 Xpose — AI-Enabled Smart Crime Reporting System
+## Xpose — AI-Enabled Smart Crime Reporting System
 
 AI-powered crime reporting platform designed to improve transparency and public safety.
 
-Key features:
+### Features
 
 • Anonymous crime reporting  
 • AI spam detection and urgency classification  
@@ -163,17 +181,17 @@ Key features:
 • Real-time alerts and notifications  
 • Admin and police monitoring dashboards
 
-Technology stack:
+### Technology Stack
 
 Flutter • Spring Boot • FastAPI • Next.js • Go Blockchain • PostgreSQL • Firebase
 
 ---
 
-## 🎬 MovieFlix — Online Movie Ticket Booking System
+## MovieFlix — Online Movie Ticket Booking System
 
 Full-stack movie booking platform with authentication, payments, and real-time seat reservation.
 
-Features:
+### Features
 
 • OTP login and Google OAuth  
 • Real-time seat selection  
@@ -181,34 +199,34 @@ Features:
 • QR-based e-ticketing  
 • TMDB API and Google Maps integration
 
-Technologies used:
+### Technologies Used
 
 Spring Boot • Next.js • PostgreSQL • Docker
 
 ---
 
-## ⚽ PlaySpot — Football Turf Booking Platform
+## PlaySpot — Football Turf Booking Platform
 
 Sports facility booking platform with integrated AI chatbot.
 
-Features:
+### Features
 
 • Online turf reservation system  
 • User reviews and ratings  
 • Admin dashboard  
 • NLP chatbot using TF-IDF and MiniLM embeddings
 
-Technologies:
+### Technologies
 
 Django • Python • NLP
 
 ---
 
-## 🧠 Lyfex — AI Wellness Assistant
+## Lyfex — AI Wellness Assistant
 
 Experimental AI system for detecting health indicators from camera input.
 
-Features:
+### Features
 
 • Real-time heart rate detection  
 • Stress estimation  
@@ -218,22 +236,22 @@ Backend powered by **FastAPI** for real-time processing.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 🎓 Education
+# Education
 
-### Master of Computer Applications (MCA)  
+## Master of Computer Applications (MCA)  
 Marian College Kuttikkanam (Autonomous)  
 2024 – 2026
 
 Focused on **Full-Stack Development, AI Systems, and Distributed Architectures**.
 
-Major academic work:
+### Major Academic Work
 
 • AURA — AI-Powered Safety and Wellness Platform  
 • AI research on **GANs and VAEs for sustainable semiconductor manufacturing**
 
 ---
 
-### Bachelor of Computer Applications (BCA)  
+## Bachelor of Computer Applications (BCA)  
 St Antony's College Peruvanthanam  
 2021 – 2024
 
@@ -249,7 +267,7 @@ Also coordinated a **Virtual Reality demonstration during a college technology f
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 📄 Research
+# Research
 
 **AI Techniques for Sustainable Semiconductor Manufacturing**
 
@@ -259,27 +277,38 @@ Presented at **Marian College Kuttikkanam**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 🎖 Certifications
+# Certifications
 
-Data Structures and Algorithms using Java — NPTEL (IIT Kharagpur)  
-Red Hat System Administration — Red Hat  
-Data Analysis with Python — Cognitive Class  
-Data Science Tools — Cognitive Class  
-Data Science 101 — Cognitive Class  
-Data Science Methodology — Cognitive Class
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-# 🔗 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/nibin-joseph05)  
-[GitHub](https://github.com/nibin-joseph05)  
-[Portfolio](https://nibin-joseph05.github.io/portfolio-nibin)  
-Email: nibin.joseph.career@gmail.com
+• Data Structures and Algorithms using Java — NPTEL (IIT Kharagpur)  
+• Red Hat System Administration — Red Hat  
+• Data Analysis with Python — Cognitive Class  
+• Data Science Tools — Cognitive Class  
+• Data Science 101 — Cognitive Class  
+• Data Science Methodology — Cognitive Class
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 📊 GitHub Statistics
+# Connect With Me
+
+<a href="https://linkedin.com/in/nibin-joseph05">
+<img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png"/> LinkedIn
+</a>
+
+<a href="https://github.com/nibin-joseph05">
+<img src="https://img.icons8.com/ios-filled/20/ffffff/github.png"/> GitHub
+</a>
+
+<a href="https://nibin-joseph05.github.io/portfolio-nibin">
+<img src="https://img.icons8.com/ios-filled/20/ffffff/domain.png"/> Portfolio
+</a>
+
+<a href="mailto:nibin.joseph.career@gmail.com">
+<img src="https://img.icons8.com/ios-filled/20/ffffff/new-post.png"/> Email
+</a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+# GitHub Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nibin-joseph05&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
