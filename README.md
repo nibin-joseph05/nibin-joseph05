@@ -1,55 +1,47 @@
 <!-- Banner -->
-<img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/banner.jpg?raw=true" 
-     alt="Banner" 
-     style="width:100%; height:150px; object-fit:cover;"/>
+<img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/banner.jpg?raw=true" width="100%" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# Hi, I'm Nibin Joseph
+# Hi there, I'm Nibin Joseph 👋
 
-Software Engineer specializing in **Full-Stack and Mobile Application Development** with strong expertise in **Java Spring Boot, Flutter, Kotlin, and modern web technologies**.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Software+Engineer+%7C+Full+Stack+Developer;Flutter+%7C+Kotlin+%7C+Java+Spring+Boot;Building+Mobile+and+Scalable+Backend+Systems)
 
-I enjoy building **scalable backend systems, real-time platforms, and production mobile applications** that integrate **AI, distributed systems, and secure architectures**.
+Software Engineer | Flutter • Kotlin • Java (Spring Boot)  
+Building full-stack mobile and backend systems.
 
-Currently working as a **Software Engineer at AIBI Campus**, contributing to live enterprise applications and mobile platforms.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
----
+# 📌 About Me
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+I am a **Software Engineer and Full-Stack Developer** specializing in **Flutter, Kotlin, Java Spring Boot, and modern web technologies**.
 
-# About Me
+Currently working at **AIBI Campus**, contributing to production enterprise applications and backend integrations.
 
-I am a developer focused on designing **end-to-end systems**, from mobile applications and user interfaces to backend APIs and distributed services.
+I enjoy building **scalable systems, real-time platforms, and intelligent applications** integrating **AI services, distributed systems, and blockchain-backed data integrity**.
 
-My work includes:
+Key areas I work with:
 
-- Production **Flutter mobile applications**
-- **Spring Boot backend services**
-- **Kotlin Android development with Jetpack Compose**
-- **Real-time systems using WebSockets**
-- **AI/NLP integrations**
-- **Blockchain-backed data integrity systems**
+• Mobile development using **Flutter and Kotlin**  
+• Backend systems with **Java Spring Boot and REST APIs**  
+• **Real-time systems using WebSockets**  
+• **AI/NLP integrations**  
+• **Blockchain-based immutable data systems**
 
-Through both academic and professional work, I have built systems involving **mobile apps, backend platforms, analytics dashboards, and AI-powered services**.
+📫 Reach me:
 
-📫 Contact  
 Email: nibin.joseph.career@gmail.com  
 Portfolio: https://nibin-joseph05.github.io/portfolio-nibin  
-LinkedIn: https://linkedin.com/in/nibin-joseph05
+LinkedIn: https://linkedin.com/in/nibin-joseph05  
 
----
+![Profile views](https://komarev.com/ghpvc/?username=nibin-joseph05&color=blue)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# Technical Skills
+# 🛠 Technical Skills
 
 ### Programming Languages
-Java  
-Python  
-Dart  
-JavaScript / TypeScript  
-PHP  
-C++
+Java • Python • Dart • JavaScript • TypeScript • PHP • C++
 
 ### Backend & Frameworks
 Spring Boot  
@@ -61,12 +53,13 @@ Flask
 REST APIs  
 Microservices
 
-### Frontend & Mobile
+### Mobile & Frontend
 Flutter  
-Kotlin (Android / Jetpack Compose)  
+Kotlin (Jetpack Compose)  
 React  
 Next.js  
-HTML / CSS  
+HTML  
+CSS  
 Tailwind CSS
 
 ### Databases
@@ -90,15 +83,46 @@ Firebase Cloud Messaging
 AWS  
 Google Cloud Platform
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+# 💼 Professional Experience
 
-# Featured Projects
+## Software Engineer — AIBI Campus  
+Kochi, Kerala  
+Nov 2025 – Present
 
-## AURA – AI-Powered Safety, Wellness & Community Platform
+Working on **production mobile applications and backend integrations** for enterprise systems.
 
-AURA is a **full-stack safety and wellness ecosystem** designed to integrate emergency response, social engagement, and real-time communication into a unified platform.
+Key contributions:
+
+• Developing features for **ANAD CRM mobile application (Flutter)**  
+• REST API integrations and backend communication  
+• Performance improvements and bug fixing in production builds  
+• Git-based collaborative development workflows  
+
+### ANAD Dialer — Android Call Monitoring System
+
+Built an Android application using **Kotlin and Jetpack Compose** for enterprise CRM integration.
+
+Features include:
+
+• Background call monitoring service  
+• Automatic call log synchronization with CRM APIs  
+• Call recording detection and upload  
+• Analytics dashboard with charts  
+• Offline queue with automatic retry mechanism
+
+Technologies used:
+
+Flutter • Kotlin • REST APIs • Firebase • MySQL • Git
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+# 🚀 Featured Projects
+
+## 🚨 AURA — AI-Powered Safety, Wellness & Community Platform
+
+A full-stack platform designed to integrate **personal safety, wellness engagement, and real-time communication**.
 
 The system includes:
 
@@ -107,160 +131,105 @@ The system includes:
 • Next.js administrative dashboard  
 • Custom Go blockchain service for immutable SOS records
 
-Key capabilities include:
+Key capabilities:
 
-- Pulse-based **SOS emergency alerts**
-- **Live GPS location streaming**
-- **Blockchain-verified emergency event logs**
-- **Real-time messaging using WebSockets**
-- **Wellness social feed with AI translation**
-- **Activity and walking tracker**
-- **Admin dashboard for monitoring users and SOS events**
+• Pulse-based **SOS emergency alerts**  
+• **Live GPS location streaming**  
+• **Blockchain-verified emergency event logs**  
+• **Real-time messaging using WebSockets**  
+• **Wellness social feed with AI translation**  
+• **Activity and walking tracker**  
+• **Admin dashboard for monitoring SOS events**
 
-Technologies used:
+Tech Stack:
 
-Flutter  
-Kotlin  
-Spring Boot  
-Next.js  
-Go  
-PostgreSQL  
-Firebase  
-Gemini AI
+Flutter • Kotlin • Spring Boot • Next.js • Go • PostgreSQL • Firebase • Gemini AI
 
-Repository  
+Repository:  
 https://github.com/nibin-joseph05/Aura
 
 ---
 
-## Xpose – AI-Enabled Smart Crime Reporting System
+## 🧾 Xpose — AI-Enabled Smart Crime Reporting System
 
-An **AI-powered crime reporting platform** that allows citizens to securely report incidents while ensuring data authenticity and transparency.
+AI-powered crime reporting platform designed to improve transparency and public safety.
 
 Key features:
 
-- Anonymous crime reporting
-- AI spam detection and urgency classification
-- Multilingual support using Gemini API
-- Blockchain-based evidence storage
-- Real-time notifications and SOS alerts
-- Admin and police monitoring dashboards
+• Anonymous crime reporting  
+• AI spam detection and urgency classification  
+• Blockchain-based evidence storage  
+• Multilingual support via Gemini API  
+• Real-time alerts and notifications  
+• Admin and police monitoring dashboards
 
 Technology stack:
 
-Flutter  
-Spring Boot  
-FastAPI  
-Next.js  
-Go Blockchain  
-PostgreSQL  
-Firebase
+Flutter • Spring Boot • FastAPI • Next.js • Go Blockchain • PostgreSQL • Firebase
 
 ---
 
-## MovieFlix – Online Movie Ticket Booking System
+## 🎬 MovieFlix — Online Movie Ticket Booking System
 
-Full-stack ticket booking platform with authentication, payments, and seat reservation.
-
-Features include:
-
-- OTP authentication and Google OAuth login
-- Real-time seat selection
-- QR-based e-ticketing
-- Razorpay payment gateway
-- TMDB API movie integration
-
-Technologies used:
-
-Spring Boot  
-Next.js  
-PostgreSQL  
-Docker
-
----
-
-## PlaySpot – Football Turf Booking Platform
-
-A booking platform for sports facilities with an AI-powered FAQ chatbot.
+Full-stack movie booking platform with authentication, payments, and real-time seat reservation.
 
 Features:
 
-- Online turf reservation system
-- User reviews and ratings
-- Admin dashboard
-- NLP chatbot using TF-IDF and MiniLM embeddings
+• OTP login and Google OAuth  
+• Real-time seat selection  
+• Razorpay payment gateway  
+• QR-based e-ticketing  
+• TMDB API and Google Maps integration
 
 Technologies used:
 
-Django  
-Python  
-NLP embeddings
+Spring Boot • Next.js • PostgreSQL • Docker
 
 ---
 
-## Lyfex – AI Wellness Assistant
+## ⚽ PlaySpot — Football Turf Booking Platform
 
-Experimental AI system designed to detect health indicators using camera input.
+Sports facility booking platform with integrated AI chatbot.
 
 Features:
 
-- Real-time heart rate detection
-- Emotion estimation
-- Stress analysis
-- Local FastAPI processing
+• Online turf reservation system  
+• User reviews and ratings  
+• Admin dashboard  
+• NLP chatbot using TF-IDF and MiniLM embeddings
+
+Technologies:
+
+Django • Python • NLP
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+## 🧠 Lyfex — AI Wellness Assistant
 
-# Professional Experience
+Experimental AI system for detecting health indicators from camera input.
 
-## Software Engineer  
-AIBI Campus – Kochi, Kerala  
-Nov 2025 – Present
+Features:
 
-Working on **production mobile applications and backend integrations** for enterprise systems.
+• Real-time heart rate detection  
+• Stress estimation  
+• Emotion analysis
 
-Key contributions:
+Backend powered by **FastAPI** for real-time processing.
 
-- Developing features for **ANAD CRM mobile application (Flutter)**
-- Integrating REST APIs and backend services
-- Improving application performance and stability
-- Maintaining production releases and bug fixes
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-Built **ANAD Dialer**, a Kotlin Android application that:
-
-- Monitors device call activity
-- Synchronizes call logs with CRM APIs
-- Detects and uploads call recordings
-- Provides analytics dashboards
-- Supports offline queue and retry mechanisms
-
-Technologies used:
-
-Flutter  
-Kotlin  
-REST APIs  
-Firebase  
-MySQL  
-Git workflows
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
-
-# Education
+# 🎓 Education
 
 ### Master of Computer Applications (MCA)  
-Marian College Kuttikkanam  
+Marian College Kuttikkanam (Autonomous)  
 2024 – 2026
 
-Focused on **full-stack development, AI systems, and distributed architectures**.
+Focused on **Full-Stack Development, AI Systems, and Distributed Architectures**.
 
-Major academic work includes:
+Major academic work:
 
-- AURA – AI safety and wellness platform
-- AI research on GANs and VAEs for sustainable semiconductor manufacturing
+• AURA — AI-Powered Safety and Wellness Platform  
+• AI research on **GANs and VAEs for sustainable semiconductor manufacturing**
 
 ---
 
@@ -270,31 +239,27 @@ St Antony's College Peruvanthanam
 
 Studied core computer science subjects including:
 
-Data Structures  
-Database Management Systems  
-Operating Systems  
-Computer Networks  
-Web Development
+• Data Structures  
+• Database Management Systems  
+• Operating Systems  
+• Computer Networks  
+• Web Development
 
-Organized and hosted a **Virtual Reality demonstration at a college technology festival**, introducing students to immersive technology.
+Also coordinated a **Virtual Reality demonstration during a college technology festival**.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
-
-# Research
+# 📄 Research
 
 **AI Techniques for Sustainable Semiconductor Manufacturing**
 
-Research exploring the use of **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)** to optimize water recycling systems and predict chemical toxicity in semiconductor production.
+Research exploring the use of **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)** to optimize water recycling systems and predict chemical toxicity in semiconductor manufacturing.
 
-Presented as part of academic research at Marian College.
+Presented at **Marian College Kuttikkanam**.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
-
-# Certifications
+# 🎖 Certifications
 
 Data Structures and Algorithms using Java — NPTEL (IIT Kharagpur)  
 Red Hat System Administration — Red Hat  
@@ -303,11 +268,18 @@ Data Science Tools — Cognitive Class
 Data Science 101 — Cognitive Class  
 Data Science Methodology — Cognitive Class
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+# 🔗 Connect With Me
 
-# GitHub Statistics
+[LinkedIn](https://linkedin.com/in/nibin-joseph05)  
+[GitHub](https://github.com/nibin-joseph05)  
+[Portfolio](https://nibin-joseph05.github.io/portfolio-nibin)  
+Email: nibin.joseph.career@gmail.com
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+# 📊 GitHub Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nibin-joseph05&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
