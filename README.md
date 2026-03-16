@@ -1,139 +1,314 @@
-<!-- Banner GIF -->
+<!-- Banner -->
 <img src="https://github.com/nibin-joseph05/nibin-joseph05/blob/main/banner.jpg?raw=true" 
-     alt="Animated Banner" 
-     style="width: 100%; height: 150px; object-fit: cover;"/>
+     alt="Banner" 
+     style="width:100%; height:150px; object-fit:cover;"/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+# Hi, I'm Nibin Joseph
 
-# Hi there, I'm Nibin Joseph! 👋
+Software Engineer specializing in **Full-Stack and Mobile Application Development** with strong expertise in **Java Spring Boot, Flutter, Kotlin, and modern web technologies**.
 
-<!-- Rainbow Typing Effect (via shields.io style) -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=AI+Developer+%7C+Full+Stack+Engineer+%7C+Innovator;Exploring+AI+and+Web+Development;Crafting+Impactful+Digital+Experiences)
+I enjoy building **scalable backend systems, real-time platforms, and production mobile applications** that integrate **AI, distributed systems, and secure architectures**.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+Currently working as a **Software Engineer at AIBI Campus**, contributing to live enterprise applications and mobile platforms.
 
+---
 
-## 📌 About Me
-I am a **Full-Stack & Mobile Developer** with expertise in **Java Spring Boot, Django, FastAPI, Flutter, and React/Next.js**. I love building **scalable, secure, and intelligent apps** with **AI/NLP, Blockchain, and real-time features**.  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
 
-- 🌱 Currently learning: Advanced Machine Learning & Flutter  
-- 💬 Ask me about: Java, Python, Spring Boot, FastAPI, Flutter, AI/NLP, Blockchain, PostgreSQL  
-- 📫 Reach me: [Email](mailto:nibin.joseph.career@gmail.com) | [LinkedIn](https://linkedin.com/in/nibin-joseph05) | [Portfolio](https://nibin-joseph05.github.io/portfolio-nibin)
+# About Me
 
-![Profile views](https://komarev.com/ghpvc/?username=nibin-joseph05&color=blue)
+I am a developer focused on designing **end-to-end systems**, from mobile applications and user interfaces to backend APIs and distributed services.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+My work includes:
 
-## 🛠️ Skills
+- Production **Flutter mobile applications**
+- **Spring Boot backend services**
+- **Kotlin Android development with Jetpack Compose**
+- **Real-time systems using WebSockets**
+- **AI/NLP integrations**
+- **Blockchain-backed data integrity systems**
 
-### Backend & Full-Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Through both academic and professional work, I have built systems involving **mobile apps, backend platforms, analytics dashboards, and AI-powered services**.
 
-### AI, Blockchain & Cloud
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F0DB4F?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-0052FF?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+📫 Contact  
+Email: nibin.joseph.career@gmail.com  
+Portfolio: https://nibin-joseph05.github.io/portfolio-nibin  
+LinkedIn: https://linkedin.com/in/nibin-joseph05
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+---
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
 
-## 🎯 Projects
+# Technical Skills
 
-### 🧾 Xpose – AI-Enabled Smart Crime Reporting System
-**Mobile + Web platform with AI/NLP & Blockchain**  
-- Flutter app + Spring Boot backend + FastAPI ML microservices  
-- AI-powered spam detection, urgency classification, multilingual support (Gemini API)  
-- Immutable blockchain (Go + LevelDB) for tamper-proof reports  
-- Next.js dashboards for admins/police with analytics & real-time updates  
+### Programming Languages
+Java  
+Python  
+Dart  
+JavaScript / TypeScript  
+PHP  
+C++
 
-### 🎬 MovieFlix – Online Movie Ticket Booking
-**Full-Stack Platform with OTP & Google OAuth**  
-- Spring Boot + Next.js + PostgreSQL  
-- Real-time seat selection, food ordering, QR ticketing, Razorpay payments  
-- TMDB API & Google Maps API integrated  
-- [Live Demo](https://movieflix-sooty.vercel.app) | [GitHub](https://github.com/nibin-joseph05/MovieFlix)
+### Backend & Frameworks
+Spring Boot  
+Spring Security  
+Hibernate / JPA  
+Django  
+FastAPI  
+Flask  
+REST APIs  
+Microservices
 
-### ⚽ PlaySpot – Football Turf Booking
-**Turf Booking Platform with NLP Chatbot**  
-- Django backend + TF-IDF + MiniLM embeddings for FAQ chatbot  
-- Real-time booking, reviews, admin panel  
-- [GitHub](https://github.com/nibin-joseph05/PlaySpot)
+### Frontend & Mobile
+Flutter  
+Kotlin (Android / Jetpack Compose)  
+React  
+Next.js  
+HTML / CSS  
+Tailwind CSS
 
-### 🧠 Lyfex – AI Wellness Assistant
-**Camera-based real-time health metrics**  
-- Heart rate, stress, hydration, emotion estimation  
-- FastAPI backend for local real-time analysis  
+### Databases
+PostgreSQL  
+MySQL  
+MongoDB  
+LevelDB
 
-### 🏫 Campus Connect
-**Group messaging & event platform**  
-- Django + Python backend  
-- File sharing, academic support, event management  
+### AI / NLP / Blockchain
+BERT  
+TF-IDF  
+MiniLM embeddings  
+SHAP explainability  
+Private Blockchain (Go + LevelDB)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+### Tools & Platforms
+Git  
+Docker  
+Firebase Authentication  
+Firebase Cloud Messaging  
+AWS  
+Google Cloud Platform
 
+---
 
-## 🎓 Education
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
 
-- **MCA** (2024–Present) – Marian College Kuttikkanam  
-- **BCA** (2021–2024) – St Antony's College Peruvanthanam  
-- **High School** (2009–2021) – St Joseph's HSS Peruvanthanam  
+# Featured Projects
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+## AURA – AI-Powered Safety, Wellness & Community Platform
 
+AURA is a **full-stack safety and wellness ecosystem** designed to integrate emergency response, social engagement, and real-time communication into a unified platform.
 
-## 🏆 Achievements
+The system includes:
 
-- Student Police Cadet (SPC) – Leadership & civic responsibility  
-- Coordinated Virtual Reality Demo at College Tech Fest  
+• Flutter mobile application  
+• Spring Boot backend services  
+• Next.js administrative dashboard  
+• Custom Go blockchain service for immutable SOS records
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+Key capabilities include:
 
+- Pulse-based **SOS emergency alerts**
+- **Live GPS location streaming**
+- **Blockchain-verified emergency event logs**
+- **Real-time messaging using WebSockets**
+- **Wellness social feed with AI translation**
+- **Activity and walking tracker**
+- **Admin dashboard for monitoring users and SOS events**
 
-## 📄 Publications
+Technologies used:
 
-**AI for Sustainable Semiconductor Manufacturing**  
-- GANs optimize water recycling, VAEs predict chemical toxicity  
-- Promotes resource efficiency and environmental compliance  
+Flutter  
+Kotlin  
+Spring Boot  
+Next.js  
+Go  
+PostgreSQL  
+Firebase  
+Gemini AI
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+Repository  
+https://github.com/nibin-joseph05/Aura
 
+---
 
-## 🎖️ Certificates
+## Xpose – AI-Enabled Smart Crime Reporting System
 
-- Red Hat System Administration – Red Hat  
-- Data Analysis with Python – Cognitive Class  
-- Data Science Tools – Cognitive Class  
-- Data Science 101 – Cognitive Class  
-- Data Science Methodology – Cognitive Class  
+An **AI-powered crime reporting platform** that allows citizens to securely report incidents while ensuring data authenticity and transparency.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+Key features:
 
+- Anonymous crime reporting
+- AI spam detection and urgency classification
+- Multilingual support using Gemini API
+- Blockchain-based evidence storage
+- Real-time notifications and SOS alerts
+- Admin and police monitoring dashboards
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nibin-joseph05)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nibin-joseph05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=gohugo&logoColor=white)](https://nibin-joseph05.github.io/portfolio-nibin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nibin.joseph.career@gmail.com)
+Technology stack:
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" style="width: 100%; margin: 10px 0;" />
+Flutter  
+Spring Boot  
+FastAPI  
+Next.js  
+Go Blockchain  
+PostgreSQL  
+Firebase
 
+---
 
-## 📊 GitHub Stats
-![Nibin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibin-joseph05&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+## MovieFlix – Online Movie Ticket Booking System
+
+Full-stack ticket booking platform with authentication, payments, and seat reservation.
+
+Features include:
+
+- OTP authentication and Google OAuth login
+- Real-time seat selection
+- QR-based e-ticketing
+- Razorpay payment gateway
+- TMDB API movie integration
+
+Technologies used:
+
+Spring Boot  
+Next.js  
+PostgreSQL  
+Docker
+
+---
+
+## PlaySpot – Football Turf Booking Platform
+
+A booking platform for sports facilities with an AI-powered FAQ chatbot.
+
+Features:
+
+- Online turf reservation system
+- User reviews and ratings
+- Admin dashboard
+- NLP chatbot using TF-IDF and MiniLM embeddings
+
+Technologies used:
+
+Django  
+Python  
+NLP embeddings
+
+---
+
+## Lyfex – AI Wellness Assistant
+
+Experimental AI system designed to detect health indicators using camera input.
+
+Features:
+
+- Real-time heart rate detection
+- Emotion estimation
+- Stress analysis
+- Local FastAPI processing
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+
+# Professional Experience
+
+## Software Engineer  
+AIBI Campus – Kochi, Kerala  
+Nov 2025 – Present
+
+Working on **production mobile applications and backend integrations** for enterprise systems.
+
+Key contributions:
+
+- Developing features for **ANAD CRM mobile application (Flutter)**
+- Integrating REST APIs and backend services
+- Improving application performance and stability
+- Maintaining production releases and bug fixes
+
+Built **ANAD Dialer**, a Kotlin Android application that:
+
+- Monitors device call activity
+- Synchronizes call logs with CRM APIs
+- Detects and uploads call recordings
+- Provides analytics dashboards
+- Supports offline queue and retry mechanisms
+
+Technologies used:
+
+Flutter  
+Kotlin  
+REST APIs  
+Firebase  
+MySQL  
+Git workflows
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+
+# Education
+
+### Master of Computer Applications (MCA)  
+Marian College Kuttikkanam  
+2024 – 2026
+
+Focused on **full-stack development, AI systems, and distributed architectures**.
+
+Major academic work includes:
+
+- AURA – AI safety and wellness platform
+- AI research on GANs and VAEs for sustainable semiconductor manufacturing
+
+---
+
+### Bachelor of Computer Applications (BCA)  
+St Antony's College Peruvanthanam  
+2021 – 2024
+
+Studied core computer science subjects including:
+
+Data Structures  
+Database Management Systems  
+Operating Systems  
+Computer Networks  
+Web Development
+
+Organized and hosted a **Virtual Reality demonstration at a college technology festival**, introducing students to immersive technology.
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+
+# Research
+
+**AI Techniques for Sustainable Semiconductor Manufacturing**
+
+Research exploring the use of **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)** to optimize water recycling systems and predict chemical toxicity in semiconductor production.
+
+Presented as part of academic research at Marian College.
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+
+# Certifications
+
+Data Structures and Algorithms using Java — NPTEL (IIT Kharagpur)  
+Red Hat System Administration — Red Hat  
+Data Analysis with Python — Cognitive Class  
+Data Science Tools — Cognitive Class  
+Data Science 101 — Cognitive Class  
+Data Science Methodology — Cognitive Class
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="width:100%;" />
+
+# GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nibin-joseph05&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nibin-joseph05&layout=compact&theme=dark)
