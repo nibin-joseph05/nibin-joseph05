@@ -49,10 +49,6 @@ I enjoy building **scalable systems, real-time platforms, and intelligent applic
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://play.google.com/store/apps/details?id=com.paragon.anad.crm&pcampaignid=web_share">
-<img src="https://img.icons8.com/ios-filled/22/ffffff/google-play.png"/> ANAD CRM (Play Store)
-</a>
-
 </p>
 
 <br>
@@ -123,7 +119,10 @@ Nov 2025 – Present
 Working on **production mobile applications and backend integrations** for enterprise systems.
 
 Live Application  
-https://play.google.com/store/apps/details?id=com.paragon.anad.crm&pcampaignid=web_share
+
+<a href="https://play.google.com/store/apps/details?id=com.paragon.anad.crm&pcampaignid=web_share">
+<img src="https://img.icons8.com/ios-filled/22/ffffff/google-play.png"/> ANAD CRM (Play Store)
+</a>
 
 ### Key Contributions
 
