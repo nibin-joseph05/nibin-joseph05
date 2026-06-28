@@ -16,13 +16,17 @@ Building full-stack mobile and backend systems.
 
 I am a **Software Engineer and Full-Stack Developer** specializing in **Flutter, Kotlin, Java Spring Boot, and modern web technologies**.
 
-Currently working at **AIBI Campus**, contributing to production enterprise applications and backend integrations.
+Software Engineer with 8 months of professional experience building production-grade mobile and backend applications.
+
+Currently focused on strengthening expertise in Java, Spring Boot, Microservices, and scalable backend architecture while building personal projects and exploring distributed systems.
 
 I enjoy building **scalable systems, real-time platforms, and intelligent applications** integrating **AI services, distributed systems, and blockchain-backed data integrity**.
 
 ### Key areas I work with
 
-• Mobile development using **Flutter and Kotlin**  
+• Backend development using Java & Spring Boot
+• REST API and Microservice architecture
+• Mobile development using Flutter and Kotlin
 • Backend systems with **Java Spring Boot and REST APIs**  
 • **Real-time systems using WebSockets**  
 • **AI / NLP integrations**  
@@ -114,9 +118,9 @@ Google Cloud Platform
 
 ## Software Engineer — AIBI Campus  
 Kochi, Kerala  
-Nov 2025 – Present
+Nov 2025 – Jun 2026
 
-Working on **production mobile applications and backend integrations** for enterprise systems.
+Worked on production mobile applications, backend services, and enterprise CRM systems. Contributed to Flutter, Kotlin, Node.js, and Next.js applications while collaborating on production releases.
 
 Live Application  
 
@@ -126,7 +130,7 @@ Live Application
 
 ### Key Contributions
 
-• Developing features for **ANAD CRM mobile application (Flutter)**  
+• Developed features for **ANAD CRM mobile application (Flutter)**  
 • REST API integrations and backend communication  
 • Performance improvements and bug fixing in production builds  
 • Git-based collaborative development workflows  
